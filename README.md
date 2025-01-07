@@ -3,6 +3,8 @@
 
 ReactLator is a React-based web application that allows users to record, transcribe, and translate audio using cutting-edge technologies. The app utilizes Vite for fast builds, TailwindCSS for styling, and @xenova/transformers for transcription and translation tasks.
 
+## 📱 [ReactLator - Deployed App](https://react-lator-transcribe-translator-app.vercel.app/) 
+
 ## Features
 - Record audio directly within the app.
 - Transcribe audio to text.
